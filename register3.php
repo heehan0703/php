@@ -1,0 +1,1 @@
+﻿<? ob_start(); ini_set('display_errors', 'On'); if(basename($_SERVER['REQUEST_URI'])=='register3.php'){header("location:http://example.com",  true,  301 );exit;}ob_flush();?>

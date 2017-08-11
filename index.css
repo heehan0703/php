@@ -1,0 +1,138 @@
+@charset "utf-8";@media (max-width:468px){}
+@media (min-width:1024px){#quad{width:1379px;}
+#top{top:-250px;}
+#pi{height:160px;}
+}
+#sds{margin-top:-82px;}
+.product_container{height:430px;}
+#isha{padding-left:0px;padding-right:0px;}
+#ishu{padding-left:0px;padding-right:0px;}
+#ish{padding-left:0px;padding-right:0px;}
+#japan{width:25%;}
+#sales_and{width:20%;}
+#best_sale_query{width:20%;}
+.s{style="margin-top:0px; margin-left:30px;"}
+.hk{width:300px;}
+body, html{overflow-x:hidden;background-color:white !important;}
+kar{margin-left:70px;}
+.overlay-mask{background:none repeat scroll 0 0 rgba(28, 45, 50, 0.8);bottom:0;height:100%;left:0;position:fixed;right:0;top:0;width:100%;z-index:999999;display:none;overflow-y:auto;overflow-x:hidden;}
+.overlay.iframe-content{border:2em solid #fff;border-radius:6px;box-sizing:content-box;padding:0;width:50%;}
+.overlay{background:none repeat scroll 0 0 #fff;border-radius:3px;box-shadow:0 1px 3px rgba(23, 74, 104, 0.35), 0 0 32px rgba(60, 82, 93, 0.35);box-sizing:border-box;margin:50px auto 0;padding:30px;position:relative;}
+.overlay.iframe-content .title{border:medium none;margin:0;position:absolute;}
+.overlay .title{border-bottom:1px solid #e2e8ea;margin-bottom:20px;}
+.overlay .close-icon{font:32px Dingbatz;color:#b3c5d0;content:"";display:block;font:bold 20px "Dingbatz";position:absolute;right:0;}
+.overlay.iframe-content .close-icon{background:none repeat scroll 0 0 #000;border-radius:32px;color:white;height:32px;opacity:1;position:absolute;right:-2em;top:-2em;width:32px;}
+.overlay .close-icon{cursor:pointer;float:right;}
+.product-item_sale{font-size:9px;height:71px;line-height:35px;position:absolute;right:132px;text-align:center;top:-25px;width:70px;}
+.circle{border-radius:100%;}
+.customBgColor{background-color:#C60;}
+.image{height:506;width:1497;}
+h2.title{font-size:50px;letter-spacing:2px;line-height:100%;padding-bottom:15px;text-align:center;}
+h5.tittle{line-height:100%;text-align:center;font-size:16px;color:#906;}
+.downside{margin-top:-550px;}
+.img-thumbnail{background-color:lightgray;}
+.ka{width:80%;overflow:hidden;text-overflow:ellipsis;text-align:center;}
+.star{height:10px;width:10px;}
+.size{font-size:24px;}
+.msrp{font-size:26px; color:#F00;}
+@media (min-width:500px) and (max-width:768px){#top{top:80px;}
+.seemore{height:46px;width:230px;margin-top:30px;}
+.product_container{width:200px;height:270px;}
+#sds{margin-top:-198px;}
+#isha{margin-top:-46px !important;padding-left:0px;padding-right:0px;}
+#ishu{padding-left:0px;padding-right:0px;}
+#ish{padding-left:0px;padding-right:0px;}
+.header{min-height:1px !important;}
+.wsmenucontainer{min-height:1px !important;}
+.hk{width:70px;}
+#sales_and{width:100%;}
+#best_sale_query{width:100%;}
+.pitem{width:50px;height:50px;margin-left:0px;}
+.ka{width:100%;overflow:hidden;text-overflow:ellipsis;text-align:center;font-size:11px;}
+.star{height:6px;width:6px;}
+.hk{width:150px;}
+#japan{width:50%;margin-top:40px;}
+#sales_and{width:100%;}
+#best_sale_query{width:100%;}
+.secondimg{height:270px;width:309px;}
+.img-thumbnail{height:150px !important;background-color:lightgray;}
+.shopbtan{width:50px;height:20px;}
+.star{height:5px;width:5px;}
+.product{margin-top:-40%;}
+.seemore{height:46px;width:230px;margin-top:40px;}
+.bgblack{height:540;}
+.downside{margin-top:-760;}
+.seemore2{height:46px;width:230px;margin-top:123px;}
+.newarrivals{width:254px;margin-top:-20px;}
+.line{width:270px;height:9px;}
+.size{font-size:10px;}
+.test:nth-child(3){display:none;}
+.test:nth-child(4){display:none;}
+}
+@media (min-width:768px) and (max-width:1024px){#top{top:170px;}
+.product_container{width:220px;height:270px;}
+#sds{margin-top:-198px;}
+#isha{margin-top:-46px !important;padding-left:0px;padding-right:0px;}
+#ishu{padding-left:0px;padding-right:0px;}
+#ish{padding-left:0px;padding-right:0px;}
+.header{min-height:1px !important;}
+.wsmenucontainer{min-height:1px !important;}
+.hk{width:70px;}
+#sales_and{width:100%;}
+#best_sale_query{width:100%;}
+.pitem{width:50px;height:50px;margin-left:0px;}
+.ka{width:100%;overflow:hidden;text-overflow:ellipsis;text-align:center;font-size:11px;}
+.star{height:6px;width:6px;}
+.hk{width:150px;}
+#japan{width:50%;margin-top:40px;}
+#sales_and{width:100%;}
+#best_sale_query{width:100%;}
+.secondimg{height:270px;width:309px;}
+.img-thumbnail{height:150px !important;background-color:lightgray;}
+.shopbtan{width:50px;height:20px;}
+.star{height:5px;width:5px;}
+.product{margin-top:-40%;}
+.seemore{height:46px;width:230px;margin-top:30px;}
+.bgblack{height:540;}
+.downside{margin-top:-760;}
+.seemore2{height:46px;width:230px;margin-top:123px;}
+.newarrivals{width:254px;margin-top:-20px;}
+.line{width:270px;height:9px;}
+.size{font-size:10px;}
+.test:nth-child(4){display:none;}
+.msrp{font-size:26px; color:#F00;}
+}
+@media (min-width:266px) and (max-width:500px){#sds{margin-top:-198px;}
+.product_container{width:120px;height:280px;}
+#isha{margin-top:-46px !important;padding-left:0px;padding-right:0px;}
+#ishu{padding-left:0px;padding-right:0px;}
+#ish{padding-left:0px;padding-right:0px;}
+.header{min-height:1px !important;}
+.wsmenucontainer{min-height:1px !important;}
+.hk{width:50px;}
+#sales_and{width:100%;}
+#best_sale_query{width:100%;}
+.pitem{width:50px;height:50px;margin-left:105px;}
+.img-thumbnail{height:120px;}
+.ka{width:100%;overflow:hidden;text-overflow:ellipsis;text-align:center;font-size:8px;}
+.star{height:6px;width:6px;}
+.hk{width:150px;}
+#japan{width:50%;margin-top:40px;}
+#sales_and{width:100%;}
+#best_sale_query{width:100%;}
+.secondimg{height:270px;width:309px;}
+.img-thumbnail{height:150px !important;background-color:lightgray;}
+.shopbtan{width:50px;height:20px;}
+.star{height:5px;width:5px;}
+.product{margin-top:-40%;}
+.seemore{height:46px;width:230px;margin-top:20px;}
+.bgblack{height:540;}
+.downside{margin-top:-760;}
+.seemore2{height:46px;width:230px;margin-top:123px;}
+.newarrivals{width:254px;margin-top:-20px;}
+.line{width:270px;height:9px;}
+.size{font-size:10px;}
+.test:nth-child(3){display:none;}
+.test:nth-child(4){display:none;}
+.msrp{font-size:18px; color:#F00;}
+}
