@@ -1,4 +1,8 @@
 <?php
+
+// copyright@heehan0703@gmail.com
+
+
 session_start();
 require_once('wp-admin/include/connectdb.php');
 
